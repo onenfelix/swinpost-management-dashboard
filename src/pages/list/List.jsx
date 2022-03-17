@@ -1,10 +1,10 @@
 import React from 'react'
 import "./list.scss"
 
-function List() {
+const List = () => {
     return (
         <div>
-            
+            <h1>List</h1>
         </div>
     )
 }
